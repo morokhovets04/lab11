@@ -1,0 +1,47 @@
+body {
+    background-image: url("1.jpg") ;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.containers {
+    display: block;
+    color: white;
+    width: 75%;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-left: 5%;
+    text-align: justify;
+    font-style: italic;
+    border: 2px solid green;
+}
+.image {
+    float: left;
+    margin-right: 20px;
+    width: 200px;
+    height: 100px;
+}
+h1 {
+    color: yellow;
+    text-align: center;
+}
+.containers2 {
+    display: block;
+    color: white;
+    width: 75%;
+    overflow: hidden;
+    margin-bottom: 20px;
+    margin-right: 5%;
+    text-align: justify;
+    font-style: italic;
+    border: 2px solid brown;
+    float: right;
+
+}
+.image2 {
+    float: right;
+    margin-right: 20px;
+    width: 200px;
+    height: 100px;
+}
+
